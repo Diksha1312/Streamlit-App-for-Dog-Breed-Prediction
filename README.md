@@ -64,10 +64,10 @@ This project also includes a Streamlit web application for interactive dog breed
 
 ### How to Run the Streamlit App
 1. **Install Dependencies**
-   - Ensure Python, Streamlit, TensorFlow, and Keras are installed in your environment.
+   - Ensure 'requirements.txt' file is installed.
 
 2. **Run the Application**
-   - Navigate to the directory containing `main.py`.
+   - Navigate to `main.py`.
    - Activate Conda Environment
      ```bash
      conda activate env
