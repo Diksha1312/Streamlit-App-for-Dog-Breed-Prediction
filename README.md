@@ -17,7 +17,7 @@ This project implements a Convolutional Neural Network (CNN) using Keras and Ten
 2. **Create Conda Environment**
 
     ```bash
-   conda create --n env python=3.8
+   conda create -n env python=3.8
    conda activate env
 
 3. **Install dependencies**
